@@ -1,0 +1,7 @@
+name: ClickPickUp
+version: ${project.version}
+main: tkachgeek.clickpickup.ClickPickUp
+api-version: 1.16
+prefix: CP
+authors: [TkachGeek]
+description: Pickup items by clicking on them!
